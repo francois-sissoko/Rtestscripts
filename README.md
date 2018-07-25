@@ -1,3 +1,3 @@
 # Rtestscripts
-Practice with R 
+Practice with R
 This project is deprecated/ will do someday
